@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_create_one">Forgot your password? get it again</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+    <string name="toolbar_title_dispositivo">Ver dispositivos</string>
+    <string name="ph">PH</string>
+</resources>
